@@ -6,3 +6,5 @@ add_executable(rpn rpn.cpp)
 add_executable(wcnt wcnt.cpp)
 
 add_executable(sentlength sentlength.cpp)
+
+add_executable(todolist todolist.cpp)
